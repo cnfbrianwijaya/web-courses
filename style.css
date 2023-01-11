@@ -1,0 +1,23 @@
+a,
+a:hover {
+    color: inherit !important;
+    text-decoration: none;
+}
+#header .container-fluid {
+    min-height: 30vh;
+}
+
+#values .bi {
+    font-size: 4rem;
+}
+
+@media screen and (min-width: 992px) {
+    testimoni .testimoni-highlight {
+    transform: scale(1.1);
+    }
+}
+
+#footer .bi {
+    color: white;
+    font-size: 1.75rem;
+}
